@@ -1,1 +1,2 @@
-# Generation-test-repo
+# Generation Test Repo
+Git/GitHub practice 
